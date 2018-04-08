@@ -1,0 +1,19 @@
+{
+  "name": "react-native-native-module-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ployer900/react-native-NativeModuleExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ployer900/react-native-NativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/ployer900/react-native-NativeModuleExample#readme"
+}
